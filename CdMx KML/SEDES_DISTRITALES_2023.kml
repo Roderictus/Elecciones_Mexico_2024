@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SEDES_DISTRITALES_2023</name>
+	<open>1</open>
+	<Style NAME="">
+		<IconStyle>
+			<color>ffff7dbe</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>C:/files/PALOMA..png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Style10">
+		<IconStyle>
+			<color>ffff7dbe</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>C:/files/PALOMA..png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Style100">
+		<IconStyle>
+			<color>ffff7dbe</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>C:/files/PALOMA..png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Style1000">
+		<IconStyle>
+			<color>ffff7dbe</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>C:/files/PALOMA..png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Style101">
+		<IconStyle>
+			<color>ffff7dbe</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>C:/files/PALOMA..png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Style1010">
+		<IconStyle>
+			<color>ffff7dbe</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>C:/files/PALOMA..png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Style1011">
+		<IconStyle>
+			<color>ffff7dbe</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>C:/files/PALOMA..png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Style1012">
+		<IconStyle>
+			<color>ffff7dbe</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>C:/files/PALOMA..png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Style1013">
+		<IconStyle>
+			<color>ffff7dbe</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>C:/files/PALOMA..png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Style1014">
+		<IconStyle>
+			<color>ffff7dbe</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>C:/files/PALOMA..png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Style102">
+		<IconStyle>
+			<color>ffff7dbe</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>C:/files/PALOMA..png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="Style11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style122</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Style110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style101</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style1214</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Style1101">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style1014</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style1210</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Style1102">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style1010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style1212</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Style1103">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style1011</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style1211</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Style1104">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style1012</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style1213</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Style1105">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style1013</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style121</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Style1100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style1000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Style111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style120</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Style112">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style102</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Style12">
+		<IconStyle>
+			<color>ffff7dbe</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>C:/files/PALOMA..png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Style120">
+		<IconStyle>
+			<color>ffff7dbe</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>C:/files/PALOMA..png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Style121">
+		<IconStyle>
+			<color>ffff7dbe</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>C:/files/PALOMA..png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Style1210">
+		<IconStyle>
+			<color>ffff7dbe</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>C:/files/PALOMA..png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Style1211">
+		<IconStyle>
+			<color>ffff7dbe</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>C:/files/PALOMA..png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Style1212">
+		<IconStyle>
+			<color>ffff7dbe</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>C:/files/PALOMA..png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Style1213">
+		<IconStyle>
+			<color>ffff7dbe</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>C:/files/PALOMA..png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Style1214">
+		<IconStyle>
+			<color>ffff7dbe</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>C:/files/PALOMA..png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Style122">
+		<IconStyle>
+			<color>ffff7dbe</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>C:/files/PALOMA..png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>SEDES_DISTRITALES2023</name>
+		<open>1</open>
+		<Placemark>
+			<name>DISTRITO 01</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">GUSTAVO A. MADERO</SimpleData>
+					<SimpleData name="DTTO_LOC">1</SimpleData>
+					<SimpleData name="DOMICILIO">Ángel Brioso Vasconcelos número Z 6, MZ 37, LT 7, Col. Cuautepec B. Alto (actualmente Palmatitla), C.P. 07170.</SimpleData>
+					<SimpleData name="TELEFONO">55 5323-4401 IP Phone 7001 y 7101</SimpleData>
+					<SimpleData name="ESTATUS">Dirección distrital</SimpleData>
+					<SimpleData name="SECCION">861</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.13338405443672,19.5536418929949,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 02</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">GUSTAVO A. MADERO</SimpleData>
+					<SimpleData name="DTTO_LOC">2</SimpleData>
+					<SimpleData name="DOMICILIO">Calzada de los Misterios número 670, Col. Industrial, Demarcación Gustavo A. Madero, C.P. 07800. Ciudad de México.</SimpleData>
+					<SimpleData name="TELEFONO">55 5781-3943 IP Phone 7002 y 7102</SimpleData>
+					<SimpleData name="ESTATUS">Dirección Distrital, Edificio Propiedad del IECM</SimpleData>
+					<SimpleData name="SECCION">1089</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.121657003077,19.4774830901216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 03</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">AZCAPOTZALCO</SimpleData>
+					<SimpleData name="DTTO_LOC">3</SimpleData>
+					<SimpleData name="DOMICILIO">Avenida 22 de Febrero número 251, Col. Santa María Malinalco, Demarcación Azcapotzalco, C.P. 02050.</SimpleData>
+					<SimpleData name="TELEFONO">55 5353-7926 IP Phone 7003 y 7103</SimpleData>
+					<SimpleData name="ESTATUS">Cabecera de Demarcación Territorial</SimpleData>
+					<SimpleData name="SECCION">92</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.18359308840679,19.480679092349,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 04</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">GUSTAVO A. MADERO</SimpleData>
+					<SimpleData name="DTTO_LOC">4</SimpleData>
+					<SimpleData name="DOMICILIO">Oriente 153 número 3406, Col. Salvador Díaz Mirón,   Demarcación Gustavo A. Madero, C.P. 07400.Ciudad de México.</SimpleData>
+					<SimpleData name="TELEFONO">55 5767-6286 IP Phone 7004 y 7104</SimpleData>
+					<SimpleData name="ESTATUS">Dirección Distrital</SimpleData>
+					<SimpleData name="SECCION">1539</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.10038227141328,19.4866317593358,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 05</name>
+			<styleUrl>#Style1104</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">AZCAPOTZALCO - MIGUEL HIDALGO</SimpleData>
+					<SimpleData name="DTTO_LOC">5</SimpleData>
+					<SimpleData name="DOMICILIO">Cairo número 8, Col. Clavería, Demarcación Azcapotzalco, C.P. 02080.</SimpleData>
+					<SimpleData name="TELEFONO">55 5561-2674 IP Phone 7005 y 7105</SimpleData>
+					<SimpleData name="ESTATUS">Dirección Distrital</SimpleData>
+					<SimpleData name="SECCION">138</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.18574820922562,19.4643123027124,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 06</name>
+			<styleUrl>#Style1105</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">GUSTAVO A. MADERO</SimpleData>
+					<SimpleData name="DTTO_LOC">6</SimpleData>
+					<SimpleData name="DOMICILIO">Avenida 551 número 208, Col. San Juan de Aragón 2a Sección, Demarcación Gustavo A. Madero, C.P. 07969.</SimpleData>
+					<SimpleData name="TELEFONO">55 5750-7884 IP Phone 7006 y 7106</SimpleData>
+					<SimpleData name="ESTATUS">Cabecera de Demarcación Territorial</SimpleData>
+					<SimpleData name="SECCION">1606</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.08425807976032,19.45784771657531,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 07</name>
+			<styleUrl>#Style11</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">MILPA ALTA - TLAHUAC</SimpleData>
+					<SimpleData name="DTTO_LOC">7</SimpleData>
+					<SimpleData name="DOMICILIO">Cuauhtémoc Norte número 84, Pueblo San Pedro Atocpan,   Milpa Alta, Demarcación Tláhuac, C.P. 12200. Ciudad de México.</SimpleData>
+					<SimpleData name="TELEFONO">55 5844-2633 IP Phone 7007 y 7107</SimpleData>
+					<SimpleData name="ESTATUS">Cabecera de Demarcación Territorial</SimpleData>
+					<SimpleData name="SECCION">3147</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.04953359032709,19.20461824100046,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 08</name>
+			<styleUrl>#Style111</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">TLAHUAC</SimpleData>
+					<SimpleData name="DTTO_LOC">8</SimpleData>
+					<SimpleData name="DOMICILIO">General Manuel M. Flores número 35, Col. Barrio de Santa Ana Zapotitlán,   Tláhuac, C.P. 13300. Ciudad de México.</SimpleData>
+					<SimpleData name="TELEFONO">55 5841-9461 IP Phone 7008 y 7108</SimpleData>
+					<SimpleData name="ESTATUS">Cabecera de Demarcación Territorial, Edificio propiedad del IECM</SimpleData>
+					<SimpleData name="SECCION">3636</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.04301374965428,19.30065168069676,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 09</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">CUAUHTEMOC</SimpleData>
+					<SimpleData name="DTTO_LOC">9</SimpleData>
+					<SimpleData name="DOMICILIO">Maple número 80, Col. Santa María Insurgentes, Demarcación Cuauhtémoc, C.P. 06430. Ciudad de México.</SimpleData>
+					<SimpleData name="TELEFONO">55 5597-7238 IP Phone 7009 y 7109</SimpleData>
+					<SimpleData name="ESTATUS">Cabecera de Demarcación Territorial, Edificio propiedad del IECM</SimpleData>
+					<SimpleData name="SECCION">4588</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.14732523869688,19.4630361475636,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 10</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">VENUSTIANO CARRANZA</SimpleData>
+					<SimpleData name="DTTO_LOC">10</SimpleData>
+					<SimpleData name="DOMICILIO">Manuel Rivera Cambas número 61, col. Jardín Balbuena,  Demarcación Venustiano Carranza, C.P. 15900. Ciudad de México.</SimpleData>
+					<SimpleData name="TELEFONO">55 5704-4236 IP Phone 7010 y 7110</SimpleData>
+					<SimpleData name="ESTATUS">Cabecera de Demarcación Territorial</SimpleData>
+					<SimpleData name="SECCION">5345</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.10778316524201,19.422821872035,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 11</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">IZTACALCO - VENUSTIANO CARRANZA</SimpleData>
+					<SimpleData name="DTTO_LOC">11</SimpleData>
+					<SimpleData name="DOMICILIO">Oriente 243-B número 101, Col. Agrícola Oriental,  Demarcación Iztacalco, C.P. 08500. Ciudad de México.</SimpleData>
+					<SimpleData name="TELEFONO">55 5558-7765 IP Phone 7011 y 7111</SimpleData>
+					<SimpleData name="ESTATUS">Dirección Distrital, Edificio Propiedad del IECM</SimpleData>
+					<SimpleData name="SECCION">1854</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.0707169921546,19.3974232912705,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 12</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">CUAUHTEMOC</SimpleData>
+					<SimpleData name="DTTO_LOC">12</SimpleData>
+					<SimpleData name="DOMICILIO">Río Amazonas número 36, Col. Cuauhtémoc,  Demarcación Cuauhtémoc, C.P. 06500. Ciudad de México.</SimpleData>
+					<SimpleData name="TELEFONO">55 5535-9364 IP Phone 7012 y 7112</SimpleData>
+					<SimpleData name="ESTATUS">Dirección Distrital</SimpleData>
+					<SimpleData name="SECCION">4874</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1639571574659,19.4319653208669,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 13</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">MIGUEL HIDALGO</SimpleData>
+					<SimpleData name="DTTO_LOC">13</SimpleData>
+					<SimpleData name="DOMICILIO">Constitución número 35, Col. Escandón,  Demarcación Miguel Hidalgo, C.P. 11800. Ciudad de México.</SimpleData>
+					<SimpleData name="TELEFONO">55 5399-7244 IP Phone 7013 y 7113</SimpleData>
+					<SimpleData name="ESTATUS">Cabecera de Demarcación Territorial</SimpleData>
+					<SimpleData name="SECCION">5025</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1813523171399,19.4023896873582,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 14</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">TLALPAN</SimpleData>
+					<SimpleData name="DTTO_LOC">14</SimpleData>
+					<SimpleData name="DOMICILIO">Tzinal número 347, Col. Héroes de Padierna,  Demarcación Tlalpan, C.P. 14200. Ciudad de México.</SimpleData>
+					<SimpleData name="TELEFONO">55 5630-2111 IP Phone 7014 y 7114</SimpleData>
+					<SimpleData name="ESTATUS">Cabecera de Demarcación Territorial</SimpleData>
+					<SimpleData name="SECCION">3824</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.2172946136009,19.2815335771213,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 15</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">IZTACALCO</SimpleData>
+					<SimpleData name="DTTO_LOC">15</SimpleData>
+					<SimpleData name="DOMICILIO">Avenida Santiago número 138, Barrio Santiago Sur,  Demarcación Iztacalco, C.P. 08800. Ciudad de México.</SimpleData>
+					<SimpleData name="TELEFONO">55 5579-8173 IP Phone 7015 y 7115</SimpleData>
+					<SimpleData name="ESTATUS">Cabecera de Demarcación Territorial</SimpleData>
+					<SimpleData name="SECCION">1772</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1260462017385,19.3905584544701,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 16</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">TLALPAN</SimpleData>
+					<SimpleData name="DTTO_LOC">16</SimpleData>
+					<SimpleData name="DOMICILIO">5 de Mayo número 43, Pueblo de San Pedro Mártir,  Demarcación Tlalpan, C.P. 014650. Ciudad de México.</SimpleData>
+					<SimpleData name="TELEFONO">55 5573-4710 IP Phone 7016 y 7116</SimpleData>
+					<SimpleData name="ESTATUS">Dirección Distrital</SimpleData>
+					<SimpleData name="SECCION">3995</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1723941733222,19.2673406406823,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 17</name>
+			<styleUrl>#Style1101</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">BENITO JUAREZ</SimpleData>
+					<SimpleData name="DTTO_LOC">17</SimpleData>
+					<SimpleData name="DOMICILIO">Petén número 86, Col. Narvarte Oriente, Demarcación Benito Juárez, C.P. 03023.</SimpleData>
+					<SimpleData name="TELEFONO">IP Phone 7017 y 7117</SimpleData>
+					<SimpleData name="ESTATUS">Cabecera de Demarcación Territorial</SimpleData>
+					<SimpleData name="SECCION">4296</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.15235422460512,19.39521574575285,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 18</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">ALVARO OBREGON - BENITO JUAREZ</SimpleData>
+					<SimpleData name="DTTO_LOC">18</SimpleData>
+					<SimpleData name="DOMICILIO">Benvenuto Cellini, número 105, Col. Alfonso XIII, Demarcación Álvaro Obregón, C.P. 01460.</SimpleData>
+					<SimpleData name="TELEFONO">55 5423-1053 IP Phone 7018 y 7118</SimpleData>
+					<SimpleData name="ESTATUS">Cabecera de Demarcación Territorial</SimpleData>
+					<SimpleData name="SECCION">3473</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1932887901303,19.3765014321426,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 19</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">TLALPAN - XOCHIMILCO</SimpleData>
+					<SimpleData name="DTTO_LOC">19</SimpleData>
+					<SimpleData name="DOMICILIO">Avenida México, número 5601, Col. Huichapan,  Demarción Xochimilco, C.P. 16030. Ciudad de México.</SimpleData>
+					<SimpleData name="TELEFONO">55 5571-9500 IP Phone 7019 y 7119</SimpleData>
+					<SimpleData name="ESTATUS">Dirección Distrital</SimpleData>
+					<SimpleData name="SECCION">4192</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1224221129748,19.2654004703522,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 20</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">CUAJIMALPA DE MORELOS - ÁLVARO OBREGÓN</SimpleData>
+					<SimpleData name="DTTO_LOC">20</SimpleData>
+					<SimpleData name="DOMICILIO">Arteaga y Salazar número 453 (antes 28), Col. el Contadero,  Demarción Cuajimalpa de Morelos, C.P. 05500. Ciudad de México.</SimpleData>
+					<SimpleData name="TELEFONO">55 5813-8517 IP Phone 7020 y 7120</SimpleData>
+					<SimpleData name="ESTATUS">Cabecera de Demarcación Territorial</SimpleData>
+					<SimpleData name="SECCION">811</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.30335945485952,19.3473246036502,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 21</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">IZTAPALAPA</SimpleData>
+					<SimpleData name="DTTO_LOC">21</SimpleData>
+					<SimpleData name="DOMICILIO">Rafael García Moreno (antes Francisco Javier Mina), Lt. 63, Mz. 14, Col. Barrio San Miguel, Demarcación Iztapalapa, C.P. 09360.</SimpleData>
+					<SimpleData name="TELEFONO">55 5642-7014 IP Phone 7021 y 7121</SimpleData>
+					<SimpleData name="ESTATUS">Dirección Distrital</SimpleData>
+					<SimpleData name="SECCION">2507</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.08207429706418,19.3562560717542,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 22</name>
+			<styleUrl>#Style110</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">IZTAPALAPA</SimpleData>
+					<SimpleData name="DTTO_LOC">22</SimpleData>
+					<SimpleData name="DOMICILIO">José Peón del Valle, Mz. 47, Lt. 5 Col. Santa Martha Acatitla Sur, Demarcación Iztapalapa, C.P. 09530.</SimpleData>
+					<SimpleData name="TELEFONO">55 5738-6586 IP Phone 7022 y 7122</SimpleData>
+					<SimpleData name="ESTATUS">Dirección Distrital</SimpleData>
+					<SimpleData name="SECCION">2150</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.02313693933557,19.3715438954398,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 23</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">ALVARO OBREGON</SimpleData>
+					<SimpleData name="DTTO_LOC">23</SimpleData>
+					<SimpleData name="DOMICILIO">Calzada al Desierto de los Leones  número 4762, Col. Tetelpan,  Demarcación Álvaro Obregón, C.P. 01780.</SimpleData>
+					<SimpleData name="TELEFONO">55 1739-1020 IP Phone 7023 y 7123</SimpleData>
+					<SimpleData name="ESTATUS">Dirección Distrital</SimpleData>
+					<SimpleData name="SECCION">3555</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.22066888055902,19.3425618613979,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 24</name>
+			<styleUrl>#Style1100</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">IZTAPALAPA</SimpleData>
+					<SimpleData name="DTTO_LOC">24</SimpleData>
+					<SimpleData name="DOMICILIO">Agricultores número 315, Col. Minerva, Demarcación Iztapalapa, C.P. 09810.</SimpleData>
+					<SimpleData name="TELEFONO">55 5686-2972 IP Phone 7024 y 7124</SimpleData>
+					<SimpleData name="ESTATUS">Cabecera de Demarcación Territorial</SimpleData>
+					<SimpleData name="SECCION">2347</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.10950720768467,19.35450459279573,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 25</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">XOCHIMILCO</SimpleData>
+					<SimpleData name="DTTO_LOC">25</SimpleData>
+					<SimpleData name="DOMICILIO">Avenida 5 de Mayo número 107, Barrio Xaltocán,  Demarcación Xochimilco, C.P. 16090.</SimpleData>
+					<SimpleData name="TELEFONO">55 5676-4156 IP Phone 7025 y 7125</SimpleData>
+					<SimpleData name="ESTATUS">Cabecera de Demarcación Territorial</SimpleData>
+					<SimpleData name="SECCION">4212</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1035619408932,19.2572854250073,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 26</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">COYOACAN</SimpleData>
+					<SimpleData name="DTTO_LOC">26</SimpleData>
+					<SimpleData name="DOMICILIO">Francisco Peñuñuri número 27, casa A, Col. Del Carmen,  Demarcación Coyoacán, C.P. 04100. Ciudad de México.</SimpleData>
+					<SimpleData name="TELEFONO">55 5658-3514 IP Phone 7026 y 7126</SimpleData>
+					<SimpleData name="ESTATUS">Cabecera de Demarcación Territorial</SimpleData>
+					<SimpleData name="SECCION">701</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.15246752216611,19.3527092045635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 27</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">IZTAPALAPA</SimpleData>
+					<SimpleData name="DTTO_LOC">27</SimpleData>
+					<SimpleData name="DOMICILIO">Oyamel Lt. 4. Mz. 12, Col.  2ª. Ampliación de Santiago Acahualtepec,  Demarcación Iztapalapa, C.P. 09609. Ciudad de México.</SimpleData>
+					<SimpleData name="TELEFONO">55 5832-6509 IP Phone 7027 y 7127</SimpleData>
+					<SimpleData name="ESTATUS">Dirección Distrital</SimpleData>
+					<SimpleData name="SECCION">2609</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.0087604440176,19.3435506817799,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 28</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">IZTAPALAPA</SimpleData>
+					<SimpleData name="DTTO_LOC">28</SimpleData>
+					<SimpleData name="DOMICILIO">Av. Paseo de las Galias número 35, Col. Lomas Estrella 2a Sección II, Demarcación Iztapalapa, C.P. 09890.</SimpleData>
+					<SimpleData name="TELEFONO">IP Phone 7028 y 7128</SimpleData>
+					<SimpleData name="ESTATUS">Dirección Distrital, Edificio propiedad del IECM</SimpleData>
+					<SimpleData name="SECCION">2843</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.09727563199949,19.3211652231095,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 29</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">IZTAPALAPA</SimpleData>
+					<SimpleData name="DTTO_LOC">29</SimpleData>
+					<SimpleData name="DOMICILIO">Miguel Hidalgo Mz. 67, Lt. 27, Pueblo de Santa Cruz Meyehualco,  Demarcación Iztapalapa, C.P. 09700. Ciudad de México.</SimpleData>
+					<SimpleData name="TELEFONO">55 5595-9920 IP Phone 7029 y 7129</SimpleData>
+					<SimpleData name="ESTATUS">Dirección Distrital</SimpleData>
+					<SimpleData name="SECCION">2622</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.04118471820881,19.3387523614583,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 30</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="SEDES_DISTRITALES_2023.kml#Schema1">
+					<SimpleData name="DEMARCACION">COYOACAN</SimpleData>
+					<SimpleData name="DTTO_LOC">30</SimpleData>
+					<SimpleData name="DOMICILIO">Avenida Ejido San Francisco Culhuacán número 170, Col. San Francisco Culhuacán,  Demarcación Coyoacán, C.P. 04420. Ciudad de México.</SimpleData>
+					<SimpleData name="TELEFONO">55 5689-6547 IP Phone 7030 y 7130</SimpleData>
+					<SimpleData name="ESTATUS">Dirección Distrital</SimpleData>
+					<SimpleData name="SECCION">582</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1283342016218,19.3304484481905,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 31</name>
+			<styleUrl>#Style112</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">IZTAPALAPA</SimpleData>
+					<SimpleData name="DTTO_LOC">31</SimpleData>
+					<SimpleData name="DOMICILIO">Jardín de los Claveles Mz. 11, Lt. 4, Col. Jardines de San Lorenzo, Demarcación Iztapalapa, C.P. 09940.</SimpleData>
+					<SimpleData name="TELEFONO">55 5642-7216 IP Phone 7031 y 7131</SimpleData>
+					<SimpleData name="ESTATUS">Dirección Distrital</SimpleData>
+					<SimpleData name="SECCION">2952</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.07279515572563,19.29674712169315,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 32</name>
+			<styleUrl>#Style1103</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">ALVARO OBREGON</SimpleData>
+					<SimpleData name="DTTO_LOC">32</SimpleData>
+					<SimpleData name="DOMICILIO">Puerto Hidalgo, Mz.11, Lt. 20, Col. Piloto Adolfo López Mateos, Demarcación Álvaro Obregón, C.P. 01298.</SimpleData>
+					<SimpleData name="TELEFONO">55 5666-7826 IP Phone 7032 y 7132</SimpleData>
+					<SimpleData name="ESTATUS">Dirección Distrital</SimpleData>
+					<SimpleData name="SECCION">3354</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.23148957537722,19.37057855389521,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO 33</name>
+			<styleUrl>#Style1102</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema1">
+					<SimpleData name="DEMARCACION">LA MAGDALENA CONTRERAS</SimpleData>
+					<SimpleData name="DTTO_LOC">33</SimpleData>
+					<SimpleData name="DOMICILIO">Santiago número 493, Col. Lomas Quebradas,  Demarcación La Magdalena Contreras, C.P. 10000. Ciudad de México.</SimpleData>
+					<SimpleData name="TELEFONO">55 5681-0096 IP Phone 7033 y 7133</SimpleData>
+					<SimpleData name="ESTATUS">Cabecera de Demarcación Territorial, Edificio propiedad del IECM</SimpleData>
+					<SimpleData name="SECCION">3026</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.23952622944812,19.3178178021683,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
